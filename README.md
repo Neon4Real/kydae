@@ -111,15 +111,3 @@ npm run add-dev YOUR_ID
 
 <img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/AverageNeon)
 
-[version-shield]: https://img.shields.io/github/package-json/v/AverageNeon/Discord-Bot?style=for-the-badge
-[version-url]: https://github.com/brblacky/WaveMusic
-[contributors-shield]: https://img.shields.io/github/contributors/AverageNeon/Discord-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/AverageNeon/kydae/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AverageNeon/Discord-Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/AverageNeon/kydae/network/members
-[stars-shield]: https://img.shields.io/github/stars/AverageNeon/Discord-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/AverageNeon/kydae/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AverageNeon/Discord-Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/AverageNeon/kydae/issues
-[license-shield]: https://img.shields.io/github/license/AverageNeon/Discord-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/AverageNeon/kydae/blob/master/LICENSE
