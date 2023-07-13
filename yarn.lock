@@ -3361,10 +3361,10 @@ parse-headers@^2.0.0:
   resolved "https://registry.yarnpkg.com/parse-headers/-/parse-headers-2.0.5.tgz#069793f9356a54008571eb7f9761153e6c770da9"
   integrity sha512-ft3iAoLOB/MlwbNXgzy43SWGP6sQki2jQvAyBg/zDFAgr9bfNWZIUj42Kw2eJIl8kEi4PbgE6U1Zau/HwI75HA==
 
-parse-ms@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/parse-ms/-/parse-ms-2.1.0.tgz#348565a753d4391fa524029956b172cb7753097d"
-  integrity sha512-kHt7kzLoS9VBZfUsiKjv43mr91ea+U05EyKkEtqp7vNbHxmaVuEqN7XxeEVnGrMtYOAxGrDElSi96K7EgO1zCA==
+parse-ms@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/parse-ms/-/parse-ms-3.0.0.tgz#3ea24a934913345fcc3656deda72df921da3a70e"
+  integrity sha512-Tpb8Z7r7XbbtBTrM9UhpkzzaMrqA2VXMT3YChzYltwV3P3pM6t8wl7TvpMnSTosz1aQAdVib7kdoys7vYOPerw==
 
 parse5-htmlparser2-tree-adapter@^7.0.0:
   version "7.0.0"
