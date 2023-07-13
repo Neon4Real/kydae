@@ -22,7 +22,7 @@
   <h3 align="center">Kydae-Bot</h3>
 
   <p align="center">
-    Discord-bot is an updated version of <a href="https://github.com/DotwoodMedia/Dbot">Dbot</a>, an advanced Discord multipurpose bot containing more than 500 commands+.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
+    Discord-bot is an updated version of <a href="https://averageneon.github.io/.in/">Visit developer</a>, an advanced Discord multipurpose bot containing more than 500 commands+.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> This is an updated version on js v14 .
     <br />
     <br />
     <a href="https://github.com/AverageNeon/kydae/issues">Report Bug</a>
@@ -56,12 +56,12 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 - [x] Family
 - [x] Giveaways 
 - [x] Easy to use
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=860390761307439114&permissions=8&scope=bot%20applications.commands)
+- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=1121643516158824508&permissions=8&scope=bot%20applications.commandscommands)
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
 <p align="center">
   <a href="https://github.com/corwindev/discord-bot">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
+    <img src="https://cdn.discordapp.com/attachments/1128680275388399746/1129011728005468254/image.png">
   </a>
 </p>
 
