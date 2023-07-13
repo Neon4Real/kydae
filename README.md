@@ -42,7 +42,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <!-- ABOUT THE PROJECT -->
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corwindev&repo=Discord-bot&theme=tokyonight)](https://github.com/corwindev/Discord-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corwindev&repo=Discord-bot&theme=tokyonight)](https://github.com/AverageNeon/kydae)
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
 - [x] Slash Commands 
 - [x] Upto date with Discord.js v14
@@ -60,7 +60,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
 <p align="center">
-  <a href="https://github.com/corwindev/discord-bot">
+  <a href="https://github.com/AverageNeon/kydae">
     <img src="https://cdn.discordapp.com/attachments/1128680275388399746/1129011728005468254/image.png">
   </a>
 </p>
@@ -81,7 +81,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 ### <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="15px" height="15px"> Installing via [NPM](https://www.npmjs.com/)
 Clone the repo by running
 ```bash
-git clone https://github.com/Corwindev/Discord-Bot.git
+git clone https://github.com/AverageNeon/kydae.git
 ```
 ### After cloning Fill all requirement in `.env` **(rename `.env.example` to `.env`)**, then run
 
@@ -114,12 +114,12 @@ npm run add-dev YOUR_ID
 [version-shield]: https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=for-the-badge
 [version-url]: https://github.com/brblacky/WaveMusic
 [contributors-shield]: https://img.shields.io/github/contributors/CorwinDev/Discord-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/Corwindev/Discord-Bot/graphs/contributors
+[contributors-url]: https://github.com/AverageNeon/kydae/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Corwindev/Discord-Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/Corwindev/Discord-Bot/network/members
+[forks-url]: https://github.com/AverageNeon/kydae/network/members
 [stars-shield]: https://img.shields.io/github/stars/Corwindev/Discord-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/Corwindev/Discord-Bot/stargazers
+[stars-url]: https://github.com/AverageNeon/kydae/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Corwindev/Discord-Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/Corwindev/Discord-Bot/issues
+[issues-url]: https://github.com/AverageNeon/kydae/issues
 [license-shield]: https://img.shields.io/github/license/Corwindev/Discord-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/Corwindev/Discord-Bot/blob/master/LICENSE
+[license-url]: https://github.com/AverageNeon/kydae/blob/master/LICENSE
