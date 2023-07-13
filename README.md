@@ -36,13 +36,13 @@
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
 > You may not claim this as your own! The original source was created by [cmxn3on](https://averageneon.github.io/.in/) and 
 
-> Discord-Bot is a multipurpose Discord bot base in [Discord.js](https://discord.js.org/)
+> Discord-Bot is a multipurpose Discord bot base in [Discord.js](https://discord.js.org)
 If you like this repository, feel free to leave a star ⭐ to motivate me!
 
 <!-- ABOUT THE PROJECT -->
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corwindev&repo=Discord-bot&theme=tokyonight)](https://github.com/AverageNeon/kydae)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AverageNeon&repo=Discord-bot&theme=tokyonight)](https://github.com/AverageNeon/kydae)
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
 - [x] Slash Commands 
 - [x] Upto date with Discord.js v14
@@ -111,15 +111,15 @@ npm run add-dev YOUR_ID
 
 <img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/AverageNeon)
 
-[version-shield]: https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=for-the-badge
+[version-shield]: https://img.shields.io/github/package-json/v/AverageNeon/Discord-Bot?style=for-the-badge
 [version-url]: https://github.com/brblacky/WaveMusic
-[contributors-shield]: https://img.shields.io/github/contributors/CorwinDev/Discord-Bot.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/AverageNeon/Discord-Bot.svg?style=for-the-badge
 [contributors-url]: https://github.com/AverageNeon/kydae/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Corwindev/Discord-Bot.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/AverageNeon/Discord-Bot.svg?style=for-the-badge
 [forks-url]: https://github.com/AverageNeon/kydae/network/members
-[stars-shield]: https://img.shields.io/github/stars/Corwindev/Discord-Bot.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/AverageNeon/Discord-Bot.svg?style=for-the-badge
 [stars-url]: https://github.com/AverageNeon/kydae/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Corwindev/Discord-Bot.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/AverageNeon/Discord-Bot.svg?style=for-the-badge
 [issues-url]: https://github.com/AverageNeon/kydae/issues
-[license-shield]: https://img.shields.io/github/license/Corwindev/Discord-Bot.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/AverageNeon/Discord-Bot.svg?style=for-the-badge
 [license-url]: https://github.com/AverageNeon/kydae/blob/master/LICENSE
