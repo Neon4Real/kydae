@@ -96,7 +96,7 @@ node src/index.js
 > How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
 
 ```bash
-npm run add-dev your copied discord profilr id
+npm run add-dev your copied discord profile id
 ```
 # Donate
 
