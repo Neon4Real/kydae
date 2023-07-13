@@ -7,6 +7,11 @@
 [![MIT License][license-shield]][license-url]
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord-Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
+<br />
+
+[![Run on Repl.it](https://repl.it/badge/github/verageNeon/kydae)](https://replit.com/@AverageNeon/kydae)
+
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
