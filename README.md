@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# kydae
-=======
 
 [![Version][version-shield]](version-url)
 [![Contributors][contributors-shield]][contributors-url]
