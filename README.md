@@ -30,7 +30,7 @@
 > You may not claim this as your own! The original source was created by [cmxn3on](https://averageneon.github.io/.in/) and 
 
 > Discord-Bot is a multipurpose Discord bot base in [Discord.js](https://discord.js.org)
-If you like this repository, feel free to leave a star ⭐ to motivate me!
+If you like this repository, feel free to leave a star ⭐ to motivate me! 
 
 <!-- ABOUT THE PROJECT -->
 
