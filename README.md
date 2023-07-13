@@ -36,7 +36,7 @@
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
 > You may not claim this as your own! The original source was created by [cmxn3on](https://averageneon.github.io/.in/) and 
 
-> Discord-Bot is a multipurpose Discord bot base in [Discord.js](https://github.com/Discordjs/discordjs)
+> Discord-Bot is a multipurpose Discord bot base in [Discord.js](https://discord.js.org/)
 If you like this repository, feel free to leave a star ⭐ to motivate me!
 
 <!-- ABOUT THE PROJECT -->
@@ -56,7 +56,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 - [x] Family
 - [x] Giveaways 
 - [x] Easy to use
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=1121643516158824508&permissions=8&scope=bot%20applications.commandscommands)
+- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=1121643516158824508&permissions=8&scope=bot)
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
 <p align="center">
@@ -95,9 +95,9 @@ node src/index.js
 ```
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/techpoint-1016942011024158782)](https://discord.gg/techpoint-1016942011024158782)
+[![DiscordBanner](https://cdn.discordapp.com/attachments/1128680113077223424/1129021978074955877/image.png)](https://discord.gg/RvcPcP4b)
 
-[Support Server](https://discord.gg/techpoint-1016942011024158782) - Discord-Bot's Support Server Invite
+[Support Server](https://discord.gg/RvcPcP4b) - Discord-Bot's Support Server Invite
 
 # <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
 > How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
@@ -109,7 +109,7 @@ npm run add-dev YOUR_ID
 
  By Donating, You Will Help Me To Maintain This Project 
 
-<img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/CorwinDev)
+<img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/AverageNeon)
 
 [version-shield]: https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=for-the-badge
 [version-url]: https://github.com/brblacky/WaveMusic
